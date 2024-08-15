@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b841765a81378349889391e7b1f467d, type: 3}
+  m_Name: Def Proj high
+  m_EditorClassIdentifier: 
+  Id: 
+  Name: 
+  DefinitionType: 0
+  DefinitionPrefab: {fileID: 4304090236528357490, guid: 0f4b86afc1292034f86bafe22edef693,
+    type: 3}
+  _projectileVelocityDefinition: {fileID: 11400000, guid: b694f0bf4345fec4b8ae2fbe1cbb6cff,
+    type: 2}
+  Damage: 100
+  LifetimeTotal: 10
+  LayerMask:
+    serializedVersion: 2
+    m_Bits: 22020097
+  RaycastDistance: 1.5
+  DelayAfterHit: 0.1
+  ImpactPrefab: {fileID: 0}
